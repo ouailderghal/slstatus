@@ -1,0 +1,7 @@
+slstatus
+config.h
+*.o
+*.l
+*.orig
+*.rej
+*.diff
